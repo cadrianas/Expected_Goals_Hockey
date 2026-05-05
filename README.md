@@ -2,7 +2,6 @@
 
 **Author:** Adriana-Stefania Ciupeanu
 **Data:** 1.2M NHL shots (2014-2025) | MoneyPuck xG values  
-**Status:** Research-grade analysis ready for publication
 
 ---
 
