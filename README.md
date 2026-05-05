@@ -308,7 +308,7 @@ For questions about methodology, results, or reproduction:
 
 ---
 
-## Abstract (Publication Version)
+## Abstract 
 
 Expected Goals (xG) models are widely used in hockey analytics, yet their robustness under distribution shift remains underexplored. Using 1.2M shots from 2014–2025, we identify substantial localized miscalibration when game state transitions to 3-on-3 overtime. While 3v3 shots comprise less than 1% of observations, calibration error increases by 288% (ECE: 0.015→0.058), reflecting a significant distributional shift (goal rate +103%).
 
