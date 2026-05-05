@@ -320,20 +320,5 @@ These findings suggest that current xG models, while effective in aggregate, may
 
 ---
 
-## Citation
-
-```
-@research{ada2025xg,
-  title={Distribution Shift in Expected Goals Models: 
-         Why Industry Standards Fail in 3v3 Overtime},
-  author={Adriana-Stefania Ciupeanu},
-  year={2026},
-  institution={University of Manitoba},
-  note={Analysis of 1.2M NHL shots, statistical validation via LRT}
-}
-```
-
----
-
 **Last Updated:** May 2026 
 
