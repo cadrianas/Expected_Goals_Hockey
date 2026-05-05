@@ -304,7 +304,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn scipy
 For questions about methodology, results, or reproduction:
 - All notebooks are fully documented and reproducible
 - Data available upon request (subject to NHL terms)
-- Code licensed under MIT
+- Code licence under GNU General Public License v3.0 (GPLv3)
 
 ---
 
